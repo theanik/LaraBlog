@@ -37,6 +37,5 @@ Blog System in Laravel
 - Run __npm install__ or __yarn__
 - Run __php artisan config:cache__
 - Run __php artisan serve__ (serve at localhost:8000)
-- Run __npm run dev__ or __npm run watch__
 - That's it: launch the main URL and login with default credentials Email :  __admin@blog.com__ - Password : __adminpass__
 - That's it: launch the main URL and login with default credentials Email :  __author@blog.com__ - Password : __authorpass__
