@@ -1,6 +1,12 @@
 # LaraBlog
 Blog System in Laravel
 
+![Screenshot from 2019-09-06 12-09-46](https://user-images.githubusercontent.com/47061421/64406498-c8e1d200-d0a3-11e9-8868-b33bba92acd1.png)
+![Screenshot from 2019-09-06 12-10-13](https://user-images.githubusercontent.com/47061421/64406515-d303d080-d0a3-11e9-9917-0c6290b5e36f.png)
+![Screenshot from 2019-09-06 12-12-07](https://user-images.githubusercontent.com/47061421/64406532-da2ade80-d0a3-11e9-8f90-78508e706c80.png)
+![Screenshot from 2019-09-06 12-17-16](https://user-images.githubusercontent.com/47061421/64406542-e2831980-d0a3-11e9-8aec-81ace9799931.png)
+
+
 ## Features
 - Admin Management
 - Author Management
